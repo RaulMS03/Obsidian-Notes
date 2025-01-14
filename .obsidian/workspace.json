@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6f9eb1c10fcacd0",
+  "active": "cb17a731639ff4e2",
   "lastOpenFiles": [
     "ReactJS/7 - Iteração.md",
     "ReactJS/8 - Hooks - useState().md",
