@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "31294fdfa73fb2fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "72ae8c28cd5c2ab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "997eb437f880c432",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "77cdac7f4ca06682",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "221256b79c7d042c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ReactJS/5 - Propriedades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - Propriedades"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "787f23ab6ffb3d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a0d7aaa104a151b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a4202459b1a626",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "74550057d6409131",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "4976b5cef4151709",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "022cd53d629511d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "52b0c044a267f200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5046e834c07e5675",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "94b7053a93854418",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "512760fedb7977f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cd06c5da94ae369b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "cb17a731639ff4e2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d7a4202459b1a626",
+  "lastOpenFiles": [
+    "ReactJS/1 - Fundamentos Do ReactJS.md",
+    "ReactJS/4 - Componentes.md",
+    "ReactJS/5 - Propriedades.md",
+    "ReactJS/6 - CSS.md",
+    "Sem título.canvas",
+    "Excalidraw/Drawing 2025-01-13 21.03.30.excalidraw.md",
+    "Excalidraw",
+    "node/1 - node.md",
+    "node/2 - node 2.md",
+    "node.md",
+    "node",
+    "aaa.md",
+    "ReactJS/3 - Iniciando um projeto React ( Vite ).md",
+    "ReactJS/2 - Bundlers & Compilers.md",
+    "Excalidraw/Drawing 2024-11-06 23.04.41.excalidraw.md",
+    "node/node 03.md",
+    "node/node02.md",
+    "node/node01.md",
+    "node",
+    "Excalidraw/Drawing 2024-11-06 22.59.22.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-06 21.44.18.excalidraw.md",
+    "a/Sem título.md",
+    "a",
+    "ReactJS/img",
+    "ReactJS/img/Pasted image 20241106210129.png",
+    "ReactJS/img/Pasted image 20241106205728.png",
+    "2024-11-06.md",
+    "ReactJS"
+  ]
+}
