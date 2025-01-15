@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "31294fdfa73fb2fa",
+    "id": "d3258eacebdd6f19",
     "type": "split",
     "children": [
       {
-        "id": "384abcabe575c703",
+        "id": "ef1e6894c4c18170",
         "type": "tabs",
         "children": [
           {
-            "id": "f6f9eb1c10fcacd0",
+            "id": "b1149cf94ce1a4a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReactJS/8 - Hooks - useState().md",
+                "file": "8 - Hooks - useState().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "8 - Hooks - useState()"
             }
+          },
+          {
+            "id": "72c0d76229a83aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 - Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 - Keys"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "787f23ab6ffb3d33",
+    "id": "59899b0b8498a86e",
     "type": "split",
     "children": [
       {
-        "id": "8a0d7aaa104a151b",
+        "id": "a83aed97a7236db6",
         "type": "tabs",
         "children": [
           {
-            "id": "d7a4202459b1a626",
+            "id": "cd653306bab5efcb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +62,12 @@
             }
           },
           {
-            "id": "74550057d6409131",
+            "id": "82d8df47c6929842",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#React",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +79,7 @@
             }
           },
           {
-            "id": "4976b5cef4151709",
+            "id": "6e9d25d0da9a91d4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,22 +92,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 300
   },
   "right": {
-    "id": "022cd53d629511d1",
+    "id": "538040cf8de35cc0",
     "type": "split",
     "children": [
       {
-        "id": "52b0c044a267f200",
+        "id": "312265f21891e820",
         "type": "tabs",
         "children": [
           {
-            "id": "5046e834c07e5675",
+            "id": "bbac181073b10e39",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8 - Hooks - useState().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para 8 - Hooks - useState()"
             }
           },
           {
-            "id": "94b7053a93854418",
+            "id": "3494496b99fc33ad",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8 - Hooks - useState().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para 8 - Hooks - useState()"
             }
           },
           {
-            "id": "512760fedb7977f3",
+            "id": "2f32b67d522cbe3b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,33 +149,23 @@
             }
           },
           {
-            "id": "cd06c5da94ae369b",
+            "id": "28076107e027dda4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReactJS/8 - Hooks - useState().md"
+                "file": "8 - Hooks - useState().md"
               },
               "icon": "lucide-list",
               "title": "Sumário de 8 - Hooks - useState()"
             }
-          },
-          {
-            "id": "cb17a731639ff4e2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,47 +174,19 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "cb17a731639ff4e2",
+  "active": "72c0d76229a83aba",
   "lastOpenFiles": [
-    "ReactJS/7 - Iteração.md",
-    "ReactJS/8 - Hooks - useState().md",
-    "ReactJS/5 - Propriedades.md",
-    "ReactJS/3 - Iniciando um projeto React ( Vite ).md",
-    "ReactJS/6 - CSS.md",
-    "ReactJS/4 - Componentes.md",
-    "ReactJS/2 - Bundlers & Compilers.md",
-    "ReactJS/1 - Fundamentos Do ReactJS.md",
-    "ReactJS/img/Pasted image 20250114111153.png",
-    "2025-01-14.md",
-    "Sem título",
-    "Excalidraw/Drawing 2025-01-13 21.03.30.excalidraw.md",
-    "README.md",
-    "ReactJS/teste.md",
-    "Sem título.canvas",
-    "Excalidraw",
-    "node/1 - node.md",
-    "node/2 - node 2.md",
-    "node.md",
-    "node",
-    "aaa.md",
-    "Excalidraw/Drawing 2024-11-06 23.04.41.excalidraw.md",
-    "node/node 03.md",
-    "node/node02.md",
-    "node/node01.md",
-    "node",
-    "Excalidraw/Drawing 2024-11-06 22.59.22.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-06 21.44.18.excalidraw.md",
-    "a/Sem título.md",
-    "a",
-    "ReactJS/img",
-    "ReactJS/img/Pasted image 20241106210129.png",
-    "ReactJS/img/Pasted image 20241106205728.png",
-    "2024-11-06.md",
-    "ReactJS"
+    "2 - Bundlers & Compilers.md",
+    "1 - Fundamentos Do ReactJS.md",
+    "3 - Iniciando um projeto React ( Vite ).md",
+    "4 - Componentes.md",
+    "5 - Propriedades.md",
+    "6 - CSS.md",
+    "7 - Iteração.md",
+    "8 - Hooks - useState().md",
+    "9 - Keys.md"
   ]
 }

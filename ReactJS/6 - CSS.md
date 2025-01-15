@@ -10,4 +10,4 @@ Basicamente, o **CSS Modules** é muito útil para aplicações de grande escala
 # CSS Global
 
 É um arquivo **CSS** que armazena estilos globais que vão servir para aplicação toda dependendo de onde ele for importado, muito útil para padronização e também é utilização de variáveis no **CSS**.
-## Próximo: [[]]
+## Próximo: [[7 - Iteração]]
