@@ -11,14 +11,10 @@
             "id": "f6f9eb1c10fcacd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReactJS/8 - Hooks - useState().md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "8 - Hooks - useState()"
+              "title": "Nova aba"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -172,8 +169,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb17a731639ff4e2",
+  "active": "d7a4202459b1a626",
   "lastOpenFiles": [
+    "TypeScript/1 - Fundamentos do TypeScript.md",
+    "TypeScript",
+    "teste-tecnico/Testes.md",
+    "teste-tecnico",
+    "React/9 - Keys.md",
+    "React/7 - Iteração.md",
+    "React/8 - Hooks - useState().md",
+    "React/6 - CSS.md",
+    "React/5 - Propriedades.md",
+    "React/4 - Componentes.md",
+    "React/3 - Iniciando um projeto React ( Vite ).md",
+    "React/2 - Bundlers & Compilers.md",
+    "React/10 - Closures no React.md",
+    "React/1 - Fundamentos do ReactJS.md",
+    "React",
+    "img/Pasted image 20250114111153.png",
+    "img/Pasted image 20241106210129.png",
+    "img/Pasted image 20241106205728.png",
+    "img",
+    "Algoritmos/1 - Introdução a algoritmos.md",
+    "Algoritmos",
     "ReactJS/7 - Iteração.md",
     "ReactJS/8 - Hooks - useState().md",
     "ReactJS/5 - Propriedades.md",
@@ -191,23 +209,10 @@
     "Sem título.canvas",
     "Excalidraw",
     "node/1 - node.md",
-    "node/2 - node 2.md",
-    "node.md",
     "node",
-    "aaa.md",
-    "Excalidraw/Drawing 2024-11-06 23.04.41.excalidraw.md",
-    "node/node 03.md",
-    "node/node02.md",
-    "node/node01.md",
     "node",
-    "Excalidraw/Drawing 2024-11-06 22.59.22.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-06 21.44.18.excalidraw.md",
-    "a/Sem título.md",
     "a",
-    "ReactJS/img",
     "ReactJS/img/Pasted image 20241106210129.png",
-    "ReactJS/img/Pasted image 20241106205728.png",
-    "2024-11-06.md",
-    "ReactJS"
+    "ReactJS/img/Pasted image 20241106205728.png"
   ]
 }

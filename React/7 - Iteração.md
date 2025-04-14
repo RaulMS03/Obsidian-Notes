@@ -59,7 +59,7 @@ Em seguida, posso começar a iteração:
 </main>
 ```
 
-Nesse caso, eu estou chamando meu **array** de posts com as respectivas informações, so que mesmo fazendo isso nesse caso eu ainda não vou visualizar nada em minha tela, pois nesse caso em especifico eu preciso agora passar essas informações para outro arquivo, que é o **```Post.jsx```**. Isso vai funcionar por meio das **[[5 - Propriedades]]** 
+Nesse caso, eu estou chamando meu **array** de posts com as respectivas informações, só que mesmo fazendo isso nesse caso eu ainda não vou visualizar nada em minha tela, pois nesse caso em especifico eu preciso agora passar essas informações para outro arquivo, que é o **```Post.jsx```**. Isso vai funcionar por meio das **Propriedades**
 
 ```
 export function Post({ author }) {
