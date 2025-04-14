@@ -13,6 +13,27 @@
         "a": 1,
         "rgb": 57855
       }
+    },
+    {
+      "query": "tag:#TypeScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
+      }
+    },
+    {
+      "query": "tag:#algoritmos  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -25,6 +46,6 @@
   "repelStrength": 11.6145833333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6713929352520039,
+  "scale": 0.07058168294850256,
   "close": true
 }

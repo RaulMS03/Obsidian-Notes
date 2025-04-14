@@ -11,10 +11,14 @@
             "id": "f6f9eb1c10fcacd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -169,11 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d7a4202459b1a626",
+  "active": "f6f9eb1c10fcacd0",
   "lastOpenFiles": [
+    "Algoritmos/1 - Introdução a algoritmos.md",
+    "teste-tecnico/Testes.md",
     "TypeScript/1 - Fundamentos do TypeScript.md",
     "TypeScript",
-    "teste-tecnico/Testes.md",
     "teste-tecnico",
     "React/9 - Keys.md",
     "React/7 - Iteração.md",
@@ -190,7 +195,6 @@
     "img/Pasted image 20241106210129.png",
     "img/Pasted image 20241106205728.png",
     "img",
-    "Algoritmos/1 - Introdução a algoritmos.md",
     "Algoritmos",
     "ReactJS/7 - Iteração.md",
     "ReactJS/8 - Hooks - useState().md",
